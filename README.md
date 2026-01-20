@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Akshay Jaiswal, a Master’s student in Computer Science at California State University, Long Beach. I have 4+ years of professional experience as a Software Engineer at Tata Consultancy Services, where I worked on cloud-based systems, backend services, CI/CD pipelines, and production support in enterprise environments. I enjoy building scalable applications and working across the stack. My technical interests include cloud engineering (AWS), backend development, CI/CD automation, and applied machine learning, and I’m comfortable working with Python, Java, JavaScript, AWS, and modern DevOps tools.
+Hi, I’m **AKSHAY JAISWAL**, a Master’s student in Computer Science at California State University, Long Beach. I have 4+ years of professional experience as a Software Engineer at Tata Consultancy Services, where I worked on cloud-based systems, backend services, CI/CD pipelines, and production support in enterprise environments. I enjoy building scalable applications and working across the stack. My technical interests include cloud engineering (AWS), backend development, CI/CD automation, and applied machine learning, and I’m comfortable working with Python, Java, JavaScript, AWS, and modern DevOps tools.
 
 
 ## 🌐 Socials:
