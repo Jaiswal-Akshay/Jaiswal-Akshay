@@ -1,23 +1,33 @@
-Hi, I'm
+Hi 👋, I'm
 <p align="center">
-  <h2 align="center"><b>AKSHAY JAISWAL</b> 👋</h2>
+ <h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=1200&pause=1650&color=0056D2&center=true&vCenter=true&width=900&lines=AKSHAY+JAISWAL;Software+%7C+AI%2FML+%7C+Cloud+%7C+DevOps+Engineer" />
+</h2>
   <p align="center">
     Master’s student in Computer Science at <b>California State University, Long Beach</b><br/>
   </p>
-I have 4+ years of professional experience as a Software Engineer at Tata Consultancy Services, where I worked on cloud-based systems, backend services, CI/CD pipelines, and production support in enterprise environments. I enjoy building scalable applications and working across the stack. My technical interests include cloud engineering (AWS), backend development, CI/CD automation, and applied machine learning, and I’m comfortable working with Python, Java, JavaScript, AWS, and modern DevOps tools.
+  <p align="center">
+    Passionate about building scalable systems, cloud-native applications, and applying machine learning to real-world problems.
+  </p>
 
+---
 
-### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jaiswal-profile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalakshay57@gmail.com) 
+<p align="center">
+  <b>🌐 Let’s Connect</b><br/><br/>
+  
+  <a href="https://www.linkedin.com/in/akshay-jaiswal-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:jaiswalakshay57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ### 🚀 Projects
 
-- [🧠 ChestX AI Assistant](https://github.com/Jaiswal-Akshay/ChestX-AI-Assistant)
-- [🤝 Federated Learning – Model Merging](https://github.com/Jaiswal-Akshay/Federated-Learning---Merging-Models)
-- [🚗 CAR-GANs](https://github.com/Jaiswal-Akshay/CAR-GANs)
-- [👁️ Machine Vision](https://github.com/Jaiswal-Akshay/Machine-Vision)
-- [🔐 Diffie-Hellman Encryption](https://github.com/Jaiswal-Akshay/Diffie-Hellman)
-- [📚 Zero to GANs](https://github.com/Jaiswal-Akshay/Zero-to-GANS)
-
+[![ChestX AI Assistant](https://img.shields.io/badge/🧠%20ChestX%20AI%20Assistant-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/ChestX-AI-Assistant) [![Federated-Learning](https://img.shields.io/badge/🤝%20Federated%20Learning%20&%20Merging%20Models-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Federated-Learning---Merging-Models) [![CAR-GANs](https://img.shields.io/badge/🚗%20CAR--GANs-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/CAR-GANs) [![Machine Vision](https://img.shields.io/badge/👁️%20Machine%20Vision-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Machine-Vision) [![Diffie-Hellman](https://img.shields.io/badge/🔐%20Diffie--Hellman-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Diffie-Hellman) [![Zero to GANs](https://img.shields.io/badge/📚%20Zero%20to%20GANs-0056D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Zero-to-GANS)
 
 ### 💻 Tech Stack
 
