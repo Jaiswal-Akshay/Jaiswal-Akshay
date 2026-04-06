@@ -1,5 +1,5 @@
-Hi 👋, I'm
 <p align="center">
+ 👋Hi, I'm
  <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=1200&pause=1650&color=0056D2&center=true&vCenter=true&width=900&lines=AKSHAY+JAISWAL;Software+%7C+AI%2FML+%7C+Cloud+%7C+DevOps+Engineer" />
 </h2>
@@ -27,13 +27,17 @@ Hi 👋, I'm
 
 ---
 
-### 🚀 Projects
+<h3 align="center">
+🚀 Projects
+</h3>
 
 [![ChestX AI Assistant](https://img.shields.io/badge/🧠%20ChestX%20AI%20Assistant-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/ChestX-AI-Assistant) [![Federated-Learning](https://img.shields.io/badge/🤝%20Federated%20Learning%20&%20Merging%20Models-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Federated-Learning---Merging-Models) [![CAR-GANs](https://img.shields.io/badge/🚗%20CAR--GANs-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/CAR-GANs) [![Machine Vision](https://img.shields.io/badge/👁️%20Machine%20Vision-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Machine-Vision) [![Diffie-Hellman](https://img.shields.io/badge/🔐%20Diffie--Hellman-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Diffie-Hellman) [![Zero to GANs](https://img.shields.io/badge/📚%20Zero%20to%20GANs-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Zero-to-GANS)
 
 ---
 
-### 💻 Tech Stack
+<h3 align="center">
+💻 Tech Stack
+</h3>
 
 #### 🧑‍💻 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-0056D2?style=for-the-badge&logo=python&logoColor=white)
