@@ -46,7 +46,6 @@
 ![C++](https://img.shields.io/badge/C++-0056D2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0056D2?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0056D2?style=for-the-badge&logo=php&logoColor=white)
-
 #### 🤖 Machine Learning & Data Science:
 ![PyTorch](https://img.shields.io/badge/PyTorch-0056D2?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0056D2?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -54,7 +53,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0056D2?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0056D2?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-0056D2?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
 #### ☁️ Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -69,18 +67,15 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0056D2?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-0056D2?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-0056D2?style=for-the-badge&logo=ansible&logoColor=white)
-
 #### 🔄 CI/CD & Automation:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0056D2?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0056D2?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 #### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-0056D2?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056D2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0056D2?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-0056D2?style=for-the-badge&logo=oracle&logoColor=white)
-
 #### 🛠️ Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-0056D2?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0056D2?style=for-the-badge&logo=github&logoColor=white)
@@ -88,7 +83,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0056D2?style=for-the-badge&logo=jira&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0056D2?style=for-the-badge&logo=servicenow&logoColor=white)
 ![TeamDynamix](https://img.shields.io/badge/TeamDynamix-0056D2?style=for-the-badge&logoColor=white)
-
 #### 🌐 Backend & Frameworks:
 ![NodeJS](https://img.shields.io/badge/Node.js-0056D2?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -96,7 +90,6 @@
 ![Apache Maven](https://img.shields.io/badge/Maven-0056D2?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-0056D2?style=for-the-badge&logo=apache-tomcat&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-0056D2?style=for-the-badge&logo=gradle&logoColor=white)
-
 #### 📊 Data Apps & Visualization:
 ![Streamlit](https://img.shields.io/badge/Streamlit-0056D2?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0056D2?style=for-the-badge&logo=postman&logoColor=white)
