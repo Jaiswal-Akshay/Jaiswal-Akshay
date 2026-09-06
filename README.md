@@ -53,6 +53,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0056D2?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0056D2?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-0056D2?style=for-the-badge&logo=nVIDIA&logoColor=white)
+#### Generative AI & LLM Engineering:
+![RAG](https://img.shields.io/badge/RAG-0056D2?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0056D2?style=for-the-badge&logo=huggingface&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0056D2?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0056D2?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama_3-0056D2?style=for-the-badge&logo=meta&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-0056D2?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0056D2?style=for-the-badge&logoColor=white)
 ####  Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/AWS-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -76,6 +85,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056D2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0056D2?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-0056D2?style=for-the-badge&logo=oracle&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0056D2?style=for-the-badge&logoColor=white)
 ####  Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-0056D2?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0056D2?style=for-the-badge&logo=github&logoColor=white)
