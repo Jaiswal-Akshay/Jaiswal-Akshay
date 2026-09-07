@@ -102,63 +102,6 @@
 <h3 align="center">🔹 Programming Languages</h3>
 
 <p align="center">
-  Python, Java, JavaScript, C++, C#, PHP
-</p>
-
-<h3 align="center">🔹 Machine Learning &amp; Data Science</h3>
-
-<p align="center">
-  PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, CUDA
-</p>
-
-<h3 align="center">🔹 Generative AI &amp; LLM Engineering</h3>
-
-<p align="center">
-  RAG, LangChain, Hugging Face, Sentence Transformers, Ollama, Llama 3, Semantic Search, Prompt Engineering
-</p>
-
-<h3 align="center">🔹 Cloud &amp; DevOps</h3>
-
-<p align="center">
-  AWS, EC2, S3, Lambda, RDS, DynamoDB, API Gateway, CloudFormation, CloudWatch, Docker, Kubernetes, Terraform, Ansible
-</p>
-
-<h3 align="center">🔹 CI/CD &amp; Automation</h3>
-
-<p align="center">
-  GitHub Actions, Jenkins, AWS CodePipeline
-</p>
-
-<h3 align="center">🔹 Databases</h3>
-
-<p align="center">
-  MySQL, PostgreSQL, DynamoDB, Oracle, ChromaDB
-</p>
-
-<h3 align="center">🔹 Tools &amp; Platforms</h3>
-
-<p align="center">
-  Git, GitHub, Bitbucket, Jira, ServiceNow, TeamDynamix
-</p>
-
-<h3 align="center">🔹 Backend &amp; Frameworks</h3>
-
-<p align="center">
-  Node.js, .NET, Apache, Maven, Tomcat, Gradle
-</p>
-
-<h3 align="center">🔹 Data Apps &amp; Visualization</h3>
-
-<p align="center">
-  Streamlit, Postman
-</p>
-
-
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">🔹 Programming Languages</h3>
-
-<p align="center">
   <a href="https://www.python.org/">Python</a>,
   <a href="https://www.java.com/">Java</a>,
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>,
