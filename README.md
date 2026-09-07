@@ -15,18 +15,27 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
   <b>Let’s Connect</b>
-</p>
+</h2>
 
-<p align="center">
+<h3 align="center">
   <a href="https://www.linkedin.com/in/akshay-jaiswal-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="35"
+    />
   </a>
+  &nbsp;
   <a href="mailto:jaiswalakshay57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      height="35"
+    />
   </a>
-</p>
+</h3>
 
 ---
 
