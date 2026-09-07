@@ -99,7 +99,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">🔹 Programming Languages</h3>
+<h3 align="center"> Programming Languages</h3>
 
 <p align="center">
   <a href="https://www.python.org/">Python</a>,
@@ -110,7 +110,7 @@
   <a href="https://www.php.net/">PHP</a>
 </p>
 
-<h3 align="center">🔹 Machine Learning &amp; Data Science</h3>
+<h3 align="center"> Machine Learning &amp; Data Science</h3>
 
 <p align="center">
   <a href="https://pytorch.org/">PyTorch</a>,
@@ -121,7 +121,7 @@
   <a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>
 </p>
 
-<h3 align="center">🔹 Generative AI &amp; LLM Engineering</h3>
+<h3 align="center"> Generative AI &amp; LLM Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/topics/retrieval-augmented-generation">RAG</a>,
@@ -134,7 +134,7 @@
   <a href="https://github.com/topics/prompt-engineering">Prompt Engineering</a>
 </p>
 
-<h3 align="center">🔹 Cloud &amp; DevOps</h3>
+<h3 align="center"> Cloud &amp; DevOps</h3>
 
 <p align="center">
   <a href="https://aws.amazon.com/">AWS</a>,
@@ -152,7 +152,7 @@
   <a href="https://www.ansible.com/">Ansible</a>
 </p>
 
-<h3 align="center">🔹 CI/CD &amp; Automation</h3>
+<h3 align="center"> CI/CD &amp; Automation</h3>
 
 <p align="center">
   <a href="https://github.com/features/actions">GitHub Actions</a>,
@@ -160,7 +160,7 @@
   <a href="https://aws.amazon.com/codepipeline/">AWS CodePipeline</a>
 </p>
 
-<h3 align="center">🔹 Databases</h3>
+<h3 align="center"> Databases</h3>
 
 <p align="center">
   <a href="https://www.mysql.com/">MySQL</a>,
@@ -170,7 +170,7 @@
   <a href="https://www.trychroma.com/">ChromaDB</a>
 </p>
 
-<h3 align="center">🔹 Tools &amp; Platforms</h3>
+<h3 align="center"> Tools &amp; Platforms</h3>
 
 <p align="center">
   <a href="https://git-scm.com/">Git</a>,
@@ -181,7 +181,7 @@
   <a href="https://www.teamdynamix.com/">TeamDynamix</a>
 </p>
 
-<h3 align="center">🔹 Backend &amp; Frameworks</h3>
+<h3 align="center"> Backend &amp; Frameworks</h3>
 
 <p align="center">
   <a href="https://nodejs.org/">Node.js</a>,
@@ -192,7 +192,7 @@
   <a href="https://gradle.org/">Gradle</a>
 </p>
 
-<h3 align="center">🔹 Data Apps &amp; Visualization</h3>
+<h3 align="center"> Data Apps &amp; Visualization</h3>
 
 <p align="center">
   <a href="https://streamlit.io/">Streamlit</a>,
