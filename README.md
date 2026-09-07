@@ -1,105 +1,257 @@
-<p align="center">
- 👋Hi, I'm
- <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=1200&pause=1650&color=0056D2&center=true&vCenter=true&width=900&lines=AKSHAY+JAISWAL;Software+%7C+AI%2FML+%7C+Cloud+%7C+DevOps+Engineer" />
+<p align="center">👋 Hi, I'm</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=1200&pause=1650&color=0056D2&center=true&vCenter=true&width=900&lines=AKSHAY+JAISWAL;Software+%7C+AI%2FML+%7C+Cloud+%7C+DevOps+Engineer" alt="Akshay Jaiswal typing animation"/>
 </h2>
- 
-  <p align="center">
-    Master’s student in Computer Science at <b>California State University, Long Beach</b><br/>
-  </p>
-  <p align="center">
-    Passionate about building scalable systems, cloud-native applications, and applying machine learning to real-world problems.
-  </p>
+
+<p align="center">
+  Master’s student in Computer Science at
+  <b>California State University, Long Beach</b>
+</p>
+
+<p align="center">
+  Passionate about building scalable systems, cloud-native applications, and applying machine learning to real-world problems.
+</p>
 
 ---
 
 <p align="center">
-  <b> Let’s Connect on: </b><br/><br/>
-  
+  <b>Let’s Connect</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/akshay-jaiswal-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="mailto:jaiswalakshay57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">
- Projects
-</h3>
+<h2 align="center">Projects</h2>
 
-[![Research Paper Assistant](https://img.shields.io/badge/📄%20Research%20Paper%20Assistant-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Research-Paper-Assistant) [![ChestX AI Assistant](https://img.shields.io/badge/🧠%20ChestX%20AI%20Assistant-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/ChestX-AI-Assistant) [![Federated-Learning](https://img.shields.io/badge/🤝%20Federated%20Learning%20&%20Merging%20Models-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Federated-Learning---Merging-Models) [![CAR-GANs](https://img.shields.io/badge/🚗%20CAR--GANs-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/CAR-GANs) [![Machine Vision](https://img.shields.io/badge/👁️%20Machine%20Vision-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Machine-Vision) [![Diffie-Hellman](https://img.shields.io/badge/🔐%20Diffie--Hellman-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Diffie-Hellman) [![Zero to GANs](https://img.shields.io/badge/📚%20Zero%20to%20GANs-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Zero-to-GANS) [![QuizLet](https://img.shields.io/badge/📝%20QuizLet-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshuAhlawat/QuizLet) [![Pneumonia Detection](https://img.shields.io/badge/🩺%20Pneumonia%20Detection%20(Transfer%20Learning)-FF6961?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaiswal-Akshay/Pneumonia-Detection-with-Transfer-Learning)
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      📄<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Research-Paper-Assistant">
+        <b>Research Paper Assistant</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      🧠<br/>
+      <a href="https://github.com/Jaiswal-Akshay/ChestX-AI-Assistant">
+        <b>ChestX AI Assistant</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      🤝<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Federated-Learning---Merging-Models">
+        <b>Federated Learning &amp; Merging Models</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚗<br/>
+      <a href="https://github.com/Jaiswal-Akshay/CAR-GANs">
+        <b>CAR-GANs</b>
+      </a>
+    </td>
+    <td align="center">
+      👁️<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Machine-Vision">
+        <b>Machine Vision</b>
+      </a>
+    </td>
+    <td align="center">
+      🔐<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Diffie-Hellman">
+        <b>Diffie-Hellman</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📚<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Zero-to-GANS">
+        <b>Zero to GANs</b>
+      </a>
+    </td>
+    <td align="center">
+      📝<br/>
+      <a href="https://github.com/AshuAhlawat/QuizLet">
+        <b>QuizLet</b>
+      </a>
+    </td>
+    <td align="center">
+      🩺<br/>
+      <a href="https://github.com/Jaiswal-Akshay/Pneumonia-Detection-with-Transfer-Learning">
+        <b>Pneumonia Detection</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">
- Tech Stack
-</h3>
+<h2 align="center">Tech Stack</h2>
 
-####  Programming Languages:
-![Python](https://img.shields.io/badge/Python-0056D2?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0056D2?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0056D2?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0056D2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0056D2?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0056D2?style=for-the-badge&logo=php&logoColor=white)
-####  Machine Learning & Data Science:
-![PyTorch](https://img.shields.io/badge/PyTorch-0056D2?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0056D2?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0056D2?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0056D2?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0056D2?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-0056D2?style=for-the-badge&logo=nVIDIA&logoColor=white)
-#### Generative AI & LLM Engineering:
-![RAG](https://img.shields.io/badge/RAG-0056D2?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0056D2?style=for-the-badge&logo=huggingface&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0056D2?style=for-the-badge&logo=huggingface&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0056D2?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama 3](https://img.shields.io/badge/Llama_3-0056D2?style=for-the-badge&logo=meta&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-0056D2?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0056D2?style=for-the-badge&logoColor=white)
-####  Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-0056D2?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-0056D2?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-0056D2?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0056D2?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0056D2?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0056D2?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0056D2?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-0056D2?style=for-the-badge&logo=ansible&logoColor=white)
-####  CI/CD & Automation:
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0056D2?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-0056D2?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-0056D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
-####  Databases:
-![MySQL](https://img.shields.io/badge/MySQL-0056D2?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056D2?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0056D2?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-0056D2?style=for-the-badge&logo=oracle&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0056D2?style=for-the-badge&logoColor=white)
-####  Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-0056D2?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0056D2?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0056D2?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0056D2?style=for-the-badge&logo=jira&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-0056D2?style=for-the-badge&logo=servicenow&logoColor=white)
-![TeamDynamix](https://img.shields.io/badge/TeamDynamix-0056D2?style=for-the-badge&logoColor=white)
-####  Backend & Frameworks:
-![NodeJS](https://img.shields.io/badge/Node.js-0056D2?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0056D2?style=for-the-badge&logo=dotnet&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-0056D2?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-0056D2?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-0056D2?style=for-the-badge&logo=apache-tomcat&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-0056D2?style=for-the-badge&logo=gradle&logoColor=white)
-####  Data Apps & Visualization:
-![Streamlit](https://img.shields.io/badge/Streamlit-0056D2?style=for-the-badge&logo=streamlit&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0056D2?style=for-the-badge&logo=postman&logoColor=white)
+<h3 align="center">🔹 Programming Languages</h3>
+
+<p align="center">
+  Python, Java, JavaScript, C++, C#, PHP
+</p>
+
+<h3 align="center">🔹 Machine Learning &amp; Data Science</h3>
+
+<p align="center">
+  PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, CUDA
+</p>
+
+<h3 align="center">🔹 Generative AI &amp; LLM Engineering</h3>
+
+<p align="center">
+  RAG, LangChain, Hugging Face, Sentence Transformers, Ollama, Llama 3, Semantic Search, Prompt Engineering
+</p>
+
+<h3 align="center">🔹 Cloud &amp; DevOps</h3>
+
+<p align="center">
+  AWS, EC2, S3, Lambda, RDS, DynamoDB, API Gateway, CloudFormation, CloudWatch, Docker, Kubernetes, Terraform, Ansible
+</p>
+
+<h3 align="center">🔹 CI/CD &amp; Automation</h3>
+
+<p align="center">
+  GitHub Actions, Jenkins, AWS CodePipeline
+</p>
+
+<h3 align="center">🔹 Databases</h3>
+
+<p align="center">
+  MySQL, PostgreSQL, DynamoDB, Oracle, ChromaDB
+</p>
+
+<h3 align="center">🔹 Tools &amp; Platforms</h3>
+
+<p align="center">
+  Git, GitHub, Bitbucket, Jira, ServiceNow, TeamDynamix
+</p>
+
+<h3 align="center">🔹 Backend &amp; Frameworks</h3>
+
+<p align="center">
+  Node.js, .NET, Apache, Maven, Tomcat, Gradle
+</p>
+
+<h3 align="center">🔹 Data Apps &amp; Visualization</h3>
+
+<p align="center">
+  Streamlit, Postman
+</p>
+
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">🔹 Programming Languages</h3>
+
+<p align="center">
+  <a href="https://www.python.org/">Python</a>,
+  <a href="https://www.java.com/">Java</a>,
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>,
+  <a href="https://isocpp.org/">C++</a>,
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">C#</a>,
+  <a href="https://www.php.net/">PHP</a>
+</p>
+
+<h3 align="center">🔹 Machine Learning &amp; Data Science</h3>
+
+<p align="center">
+  <a href="https://pytorch.org/">PyTorch</a>,
+  <a href="https://www.tensorflow.org/">TensorFlow</a>,
+  <a href="https://numpy.org/">NumPy</a>,
+  <a href="https://pandas.pydata.org/">Pandas</a>,
+  <a href="https://matplotlib.org/">Matplotlib</a>,
+  <a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>
+</p>
+
+<h3 align="center">🔹 Generative AI &amp; LLM Engineering</h3>
+
+<p align="center">
+  <a href="https://github.com/topics/retrieval-augmented-generation">RAG</a>,
+  <a href="https://www.langchain.com/">LangChain</a>,
+  <a href="https://huggingface.co/">Hugging Face</a>,
+  <a href="https://www.sbert.net/">Sentence Transformers</a>,
+  <a href="https://ollama.com/">Ollama</a>,
+  <a href="https://www.llama.com/">Llama 3</a>,
+  <a href="https://github.com/topics/semantic-search">Semantic Search</a>,
+  <a href="https://github.com/topics/prompt-engineering">Prompt Engineering</a>
+</p>
+
+<h3 align="center">🔹 Cloud &amp; DevOps</h3>
+
+<p align="center">
+  <a href="https://aws.amazon.com/">AWS</a>,
+  <a href="https://aws.amazon.com/ec2/">EC2</a>,
+  <a href="https://aws.amazon.com/s3/">S3</a>,
+  <a href="https://aws.amazon.com/lambda/">Lambda</a>,
+  <a href="https://aws.amazon.com/rds/">RDS</a>,
+  <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a>,
+  <a href="https://aws.amazon.com/api-gateway/">API Gateway</a>,
+  <a href="https://aws.amazon.com/cloudformation/">CloudFormation</a>,
+  <a href="https://aws.amazon.com/cloudwatch/">CloudWatch</a>,
+  <a href="https://www.docker.com/">Docker</a>,
+  <a href="https://kubernetes.io/">Kubernetes</a>,
+  <a href="https://www.terraform.io/">Terraform</a>,
+  <a href="https://www.ansible.com/">Ansible</a>
+</p>
+
+<h3 align="center">🔹 CI/CD &amp; Automation</h3>
+
+<p align="center">
+  <a href="https://github.com/features/actions">GitHub Actions</a>,
+  <a href="https://www.jenkins.io/">Jenkins</a>,
+  <a href="https://aws.amazon.com/codepipeline/">AWS CodePipeline</a>
+</p>
+
+<h3 align="center">🔹 Databases</h3>
+
+<p align="center">
+  <a href="https://www.mysql.com/">MySQL</a>,
+  <a href="https://www.postgresql.org/">PostgreSQL</a>,
+  <a href="https://aws.amazon.com/dynamodb/">DynamoDB</a>,
+  <a href="https://www.oracle.com/database/">Oracle</a>,
+  <a href="https://www.trychroma.com/">ChromaDB</a>
+</p>
+
+<h3 align="center">🔹 Tools &amp; Platforms</h3>
+
+<p align="center">
+  <a href="https://git-scm.com/">Git</a>,
+  <a href="https://github.com/">GitHub</a>,
+  <a href="https://bitbucket.org/">Bitbucket</a>,
+  <a href="https://www.atlassian.com/software/jira">Jira</a>,
+  <a href="https://www.servicenow.com/">ServiceNow</a>,
+  <a href="https://www.teamdynamix.com/">TeamDynamix</a>
+</p>
+
+<h3 align="center">🔹 Backend &amp; Frameworks</h3>
+
+<p align="center">
+  <a href="https://nodejs.org/">Node.js</a>,
+  <a href="https://dotnet.microsoft.com/">.NET</a>,
+  <a href="https://httpd.apache.org/">Apache</a>,
+  <a href="https://maven.apache.org/">Maven</a>,
+  <a href="https://tomcat.apache.org/">Tomcat</a>,
+  <a href="https://gradle.org/">Gradle</a>
+</p>
+
+<h3 align="center">🔹 Data Apps &amp; Visualization</h3>
+
+<p align="center">
+  <a href="https://streamlit.io/">Streamlit</a>,
+  <a href="https://www.postman.com/">Postman</a>
+</p>
